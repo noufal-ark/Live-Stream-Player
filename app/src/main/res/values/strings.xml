@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Live Stream Player</string>
+
+    <string name="live_stream_mp4">https://ia800201.us.archive.org/22/items/ksnn_compilation_master_the_internet/ksnn_compilation_master_the_internet_512kb.mp4</string>
+    <string name="live_stream_mov">rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov</string>
+    <string name="live_stream_m3u8">http://93.184.221.133/00573D/236/236-0.m3u8</string>
+</resources>
